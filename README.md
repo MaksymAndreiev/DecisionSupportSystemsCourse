@@ -6,7 +6,7 @@
 
 # Computer decision support systems
 
-Workshop on the course "Computer decision support systems" at V. N. Karazin Kharkiv National University, which I took in the 4th year in 2023 at the Faculty of Computer Science.
+Workshop on the course "Computer decision support systems" at V. N. Karazin Kharkiv National University, which I took in the 4th year in 2023 at the Computer Science Department.
 
 The main objectives of the course are: 
 - studying the general formulation of decision-making and optimization problems;
